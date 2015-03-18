@@ -1,6 +1,6 @@
 I spent the summer and winter of 2014 working at a small practice in Bristol. We had recently moved to a much larger office in the centre of the city, occupying part of the tenth floor of the iconic Colston Tower. Having moved from a much smaller basement office in Clifton, our new office was left looking a bit empty. 
 
-![](https://github.com/streuli999/harrys-opendesk/Blog/02-First-Build/colston-tower-empty.jpg)
+![](https://raw.githubusercontent.com/streuli999/harrys-opendesk/master/Blog/02-First-Build/colston-tower-empty.jpg)
 
 I was tasked with building some computer cabinets to fill the gaps between each workstation, on a very small budget. They had to hold two PCs each, and also deliver power/data. As I was already quite familiar with OpenDesk, I thought I'd carry out an experiment, and see whether an existing design could be adapted to suit my particular conditions. I took the design of a bedside table, by ............, and stretched it around in MicroStation until the opening was large enough to hold two machines. I guess this is quite a primitive adaptation of an existing design, however it demonstrates the principle quite well.
 
